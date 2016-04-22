@@ -3,3 +3,4 @@ phpunit.xml
 Propel/om/*
 Propel/map/*
 vendor/
+/nbproject/private/
